@@ -1,6 +1,6 @@
-def Dior():
-  print('Hello World')
-  print('Hello World')
-  print('Hello World')
+def Dior(): # create Dior
+  print('Hello World') # your text
+  print('Hello World') # your text
+  print('Hello World') # your text
   
-Dior()
+Dior() # close Dior()
