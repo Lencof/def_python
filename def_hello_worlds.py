@@ -1,9 +1,12 @@
-def Hello Worlds():
-  print('Hello worlds')
-  print('Hello worlds')
-  print('Hello worlds')
-  print("Hello worlds")
-  print("Hello worlds")
-  print("Hello worlds")
+# __Author__ __Lencof__
+# def_hello_worlds.py
+
+def Hello Worlds(): # create def Hello Worlds
+  print('Hello worlds') # your text
+  print('Hello worlds') # your text
+  print('Hello worlds') # your text
+  print("Hello worlds") # your text
+  print("Hello worlds") # your text
+  print("Hello worlds") # your text
   
-Hello Worlds()
+Hello Worlds() # close Hello worlds()
