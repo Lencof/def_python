@@ -7,5 +7,6 @@ def Asoc(): # create def Asoc():
 X = Asoc # appropriation
 X = 1000 # your figures
 V = 1000 # your figures
-
 print(X + V) # use function print()
+
+Asoc() # close
