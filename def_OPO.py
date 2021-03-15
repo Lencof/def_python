@@ -13,3 +13,5 @@ def OPO(): # create class OPO():
     print('HI!') # your text
     print('HI!') # your text
     print('HI!') # your text
+
+OPO() # close
