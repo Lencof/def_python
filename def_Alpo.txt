@@ -1,0 +1,3 @@
+Need this one: cap
+Need this one too: gloves
+All the rest: ('scarf', 'monocle', 'mustache wax')
