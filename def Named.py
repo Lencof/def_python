@@ -1,7 +1,8 @@
 # __Author__ __Lencof__
 # def Named.py
 
-import os # use os
+import os 
+import sys
 
 # create def Named():
 def Named():
