@@ -1,6 +1,9 @@
 # __Author__ __Lencof__
 # def_Askol.py
 
+import os
+import sys 
+
 # create def Askol(Name1, Name2, *args):
 def Askol(Name1, Name2, *args):
     print('Hi!:', Name1) # your text
