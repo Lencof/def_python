@@ -1,6 +1,9 @@
 # __Author__ __Lencof__
 # def_Asaca.py
 
+import os
+import sys 
+
 def Asaca_a(): # create def Asaca_a():
     global a # create global variable
     a = 1 # your figures
