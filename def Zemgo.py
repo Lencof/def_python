@@ -2,6 +2,7 @@
 # def Zemgo.py
 
 import os # use os 
+import sys
 
 # create def Zemgo():
 def Zemgo():
