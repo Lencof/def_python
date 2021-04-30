@@ -5,6 +5,35 @@ def Assing(): # create def Assing
   print('Assing') # your text
   print('Assing') # your text
   print('Assing') # your text
+ 
+  print("Assing") # your text
+  print("Assing") # your text
+  print("Assing") # your text
+  
+  print("Assing") # your text
+  print("Assing") # your text
+  print("Assing") # your text
+  
+  print('Assing') # your text
+  print('Assing') # your text
+  print('Assing') # your text
+ 
+  print("Assing") # your text
+  print("Assing") # your text
+  print("Assing") # your text
+  
+  print("Assing") # your text
+  print("Assing") # your text
+  print("Assing") # your text
+  
+  print('Assing') # your text
+  print('Assing') # your text
+  print('Assing') # your text
+ 
+  print("Assing") # your text
+  print("Assing") # your text
+  print("Assing") # your text
+  
   print("Assing") # your text
   print("Assing") # your text
   print("Assing") # your text
