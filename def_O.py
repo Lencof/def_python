@@ -6,4 +6,36 @@ def O(): # create def O():
     print('O') # your text 
     print('O') # your text
     
+    print('O') # your text
+    print('O') # your text 
+    print('O') # your text
+    
+    print('O') # your text
+    print('O') # your text 
+    print('O') # your text
+    
+    print('O') # your text
+    print('O') # your text 
+    print('O') # your text
+    
+    print('O') # your text
+    print('O') # your text 
+    print('O') # your text
+    
+    print('O') # your text
+    print('O') # your text 
+    print('O') # your text
+    
+    print('O') # your text
+    print('O') # your text 
+    print('O') # your text
+    
+    print('O') # your text
+    print('O') # your text 
+    print('O') # your text
+    
+    print('O') # your text
+    print('O') # your text 
+    print('O') # your text
+
 O() # close
