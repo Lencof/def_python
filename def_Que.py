@@ -1,6 +1,9 @@
 # __Author__ __Lencof__
 # def_Qe.py
 
+import os
+import sys 
+
 def Que(): # crate def Que():
     pass # an empty block
   
