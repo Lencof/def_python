@@ -1,6 +1,9 @@
 # __Author__ __Lencof__
 # def_Vavex.py
 
+import os 
+import sys 
+
 def Vavex_a():
     global As
     As = 1000
