@@ -8,5 +8,37 @@ def X(): # create def X():
     print('X') # your text
     print('X') # your text
     print('X') # your text
+        
+    print('X') # your text
+    print('X') # your text
+    print('X') # your text
+    
+    print('X') # your text
+    print('X') # your text
+    print('X') # your text
+    
+    print('X') # your text
+    print('X') # your text
+    print('X') # your text
+        
+    print('X') # your text
+    print('X') # your text
+    print('X') # your text
+    
+    print('X') # your text
+    print('X') # your text
+    print('X') # your text
+    
+    print('X') # your text
+    print('X') # your text
+    print('X') # your text
+        
+    print('X') # your text
+    print('X') # your text
+    print('X') # your text
+    
+    print('X') # your text
+    print('X') # your text
+    print('X') # your text
     
 X() # Close
